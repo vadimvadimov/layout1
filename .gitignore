@@ -1,0 +1,9 @@
+/sass/
+/.git/
+/css/normalize.css
+/img/slider.gif
+/js/_custom.js
+/js/_lazy.js
+/**/Thumbs.db
+/**/*.DS_Store
+ht.access
